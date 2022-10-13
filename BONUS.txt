@@ -1,0 +1,13 @@
+BONUS POINTS:
+- if your website is responsive
+- for linking Marvel Wikipedia page ("Know More")
+- for adding official (youtube) trailer links to movies and series.
+- for adding zoom transition on hover (movies, series & comics)
+- for adding scrollspy wherever necessary
+
+You will be judged on the basis of:
+- timeliness
+- degree of completion
+- accuracy of completion
+
+ALL THE BEST!!

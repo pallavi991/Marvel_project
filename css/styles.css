@@ -1,0 +1,59 @@
+body{
+    margin: 0%;
+    padding: 0;
+    background-color: rgb(26, 24, 24);
+}
+.nav-content{
+    padding:20px;
+    float: right;
+    margin: 10px;
+}
+#heading-text{
+    text-align:center;
+    width:50%;
+    margin:auto;
+}
+#p-text{
+   text-align: center;
+}
+.comics{
+    text-align: center;
+    padding: 5%;
+}
+.movie-posters{
+    text-align: center;
+    padding: 5%;
+}
+.products{
+    text-align: center;
+    padding: 5%;
+    
+}
+.col-md-4:hover{
+    transform: scale(1.25);
+}
+
+#special-long{
+    width: 100%;
+    margin: 2px;
+    text-align: left;
+    color: white;
+    background-color: rgb(173, 86, 66);
+
+}
+.video-section{
+    padding: 40px;
+    margin: 10px;
+    background-color: black;
+}
+.video-description{
+    float: right;
+}
+.card-text{
+    color: black;
+}
+.navbar-brand{
+    background-color: red;
+    width: 6.5%;
+    border-radius: 5%;
+}
